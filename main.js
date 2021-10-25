@@ -1,6 +1,6 @@
 const SocialMediaLinks = {
   github: "jaksonricelly",
-  youtube: "UCtxDx-D5Q8GP4XhAB6sZKbA",
+  youtube: "channel/UCtxDx-D5Q8GP4XhAB6sZKbA",
   facebook: "jaksonricellymds",
   instagram: "jaksonricelly",
   twitter: "jaksonricelly",
