@@ -20,7 +20,7 @@
 </g>
 <defs>
 <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(278 99) rotate(90) scale(300)">
-<stop stop-color="#FFC323"/>
+<stop stop-color="#25d366"/>
 <stop offset="1" stop-color="##c31432" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(98 99) rotate(90) scale(300)">
