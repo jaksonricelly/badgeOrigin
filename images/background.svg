@@ -29,7 +29,7 @@
 </radialGradient>
 <linearGradient id="paint2_linear" x1="-67.9497" y1="58.9385" x2="436.115" y2="232.357" gradientUnits="userSpaceOnUse">
 <stop stop-color="###c31432"/>
-<stop offset="1" stop-color="#FFCD1E"/>
+<stop offset="1" stop-color="#25d366"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="95.1275" y1="217.565" x2="2.23833" y2="59.047" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8257E5"/>
@@ -41,11 +41,11 @@
 </linearGradient>
 <linearGradient id="paint5_linear" x1="95.1275" y1="-105.732" x2="281.421" y2="6.68569" gradientUnits="userSpaceOnUse">
 <stop stop-color="##c31432" stop-opacity="0"/>
-<stop offset="1" stop-color="#FFCD1E"/>
+<stop offset="1" stop-color="#25d366"/>
 </linearGradient>
 <linearGradient id="paint6_linear" x1="375" y1="174.833" x2="188.706" y2="62.4152" gradientUnits="userSpaceOnUse">
 <stop stop-color="##c31432" stop-opacity="0"/>
-<stop offset="1" stop-color="#FFCD1E"/>
+<stop offset="1" stop-color="#25d366"/>
 </linearGradient>
 <linearGradient id="paint7_linear" x1="281.709" y1="110.155" x2="374.598" y2="-48.3627" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8257E5"/>
